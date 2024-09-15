@@ -1,4 +1,4 @@
 # FirstRepo
-My first Reposetory
+My first Repository.
 <br>
 Author = Keshav More
